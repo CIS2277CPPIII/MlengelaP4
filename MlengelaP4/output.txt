@@ -1,0 +1,11 @@
+Name of sort function  Elapsed time in secs.msec
+---------------------  -------------------------
+bubblesort             13.372
+comb sort              0.032
+goofy sort             7.857
+in-place merge         2.143
+insertion sort         2.185
+quick sort             0.009
+selection sort         4.172
+shaker sort            12.179
+shell sort             0.018
